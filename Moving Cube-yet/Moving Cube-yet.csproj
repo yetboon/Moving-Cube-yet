@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2AEDAC70-D552-452C-A5A7-F978E0060D7D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Moving_Cube_yet</RootNamespace>
+    <AssemblyName>Moving Cube-yet</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class_staticsound.cs" />
+    <Compile Include="Form_DATA_DEL.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_DATA_DEL.Designer.cs">
+      <DependentUpon>Form_DATA_DEL.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_GS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_GS.Designer.cs">
+      <DependentUpon>Form_GS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_about.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_about.Designer.cs">
+      <DependentUpon>Form_about.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_LS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_LS.Designer.cs">
+      <DependentUpon>Form_LS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_SC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_SC.Designer.cs">
+      <DependentUpon>Form_SC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_SM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_SM.Designer.cs">
+      <DependentUpon>Form_SM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="map_level1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="map_level1.Designer.cs">
+      <DependentUpon>map_level1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="map_level2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="map_level2.Designer.cs">
+      <DependentUpon>map_level2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="map_level3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="map_level3.Designer.cs">
+      <DependentUpon>map_level3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_DATA_DEL.resx">
+      <DependentUpon>Form_DATA_DEL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_GS.resx">
+      <DependentUpon>Form_GS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_about.resx">
+      <DependentUpon>Form_about.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_LS.resx">
+      <DependentUpon>Form_LS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_SC.resx">
+      <DependentUpon>Form_SC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_SM.resx">
+      <DependentUpon>Form_SM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="map_level1.resx">
+      <DependentUpon>map_level1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="map_level2.resx">
+      <DependentUpon>map_level2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="map_level3.resx">
+      <DependentUpon>map_level3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\无a标题.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p_blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p_green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\picture\no.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\p_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\asda.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\picture\b_red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\sound\2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\sound\3.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\sound\1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\picture\f_purple.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\picture\b_red2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\picture\asdas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\sound\Hit02.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\sound\Hit01.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\sound\Bound01.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\picture\cursor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\picture\About_bg.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

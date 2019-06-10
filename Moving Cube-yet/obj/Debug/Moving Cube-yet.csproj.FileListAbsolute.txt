@@ -1,0 +1,34 @@
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\bin\Debug\Moving Cube-yet.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\bin\Debug\Moving Cube-yet.exe
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\bin\Debug\Moving Cube-yet.pdb
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving Cube-yet.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving Cube-yet.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving Cube-yet.exe
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving Cube-yet.pdb
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_about.resources
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_SC.resources
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_GS.resources
+c:\users\user\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_SM.resources
+C:\Users\User\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.map_level1.resources
+C:\Users\User\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.map_level2.resources
+C:\Users\User\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.map_level3.resources
+C:\Users\User\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_DATA_DEL.resources
+C:\Users\User\documents\visual studio 2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_LS.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\bin\Debug\Moving Cube-yet.exe.config
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\bin\Debug\Moving Cube-yet.exe
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\bin\Debug\Moving Cube-yet.pdb
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving Cube-yet.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_DATA_DEL.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_GS.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_about.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_LS.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_SC.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Form_SM.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.map_level1.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.map_level2.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.map_level3.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving_Cube_yet.Properties.Resources.resources
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving Cube-yet.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving Cube-yet.exe
+C:\Users\Administrator\Desktop\vs2015\Projects\Moving Cube-yet\Moving Cube-yet\obj\Debug\Moving Cube-yet.pdb
